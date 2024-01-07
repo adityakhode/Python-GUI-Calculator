@@ -8,8 +8,10 @@ Made with PyQt having simple butiful interface hover actions to buttons which ma
 
 Code explain 
 
-used PyQt library and playsound library
+
 ![code](https://github.com/adityakhode/Python-GUI-Calculator/assets/113977001/11e21ea6-6a22-43e2-bb6b-cc4022080767)
+
+used PyQt library and playsound library
 
 it consist of 8 function 
 
